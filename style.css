@@ -1,0 +1,53 @@
+h1{
+    color:rgb(65, 108, 225)
+}
+ul{
+    list-style: none;
+    display: inline;
+    border: block;
+    color:rgb(196, 22, 10);
+    font-size:x-large;
+
+}
+ol li{
+    color:red;
+    font-size:30px;
+
+}
+
+body{
+    background-image: url(images/dress.jpeg)
+
+    
+ 
+}
+table{
+    border: 6px;
+    background-color: aliceblue;
+
+
+}
+tr, td, th {
+    padding: 18px;
+    border: 2px;
+    border: 5px red double;
+    text-align:blue;
+
+}
+nav li{
+    display: inline;
+     float: right;
+     padding: 30px 15px;
+     font-size: 30px;
+
+}
+nav{
+    text-align: right;
+    font-size: 50px;
+}
+.navbar  li{
+    display:flex;
+    float:right;
+    
+
+}
